@@ -1,0 +1,75 @@
+{
+    "categories":[
+        {
+            "name": "Men Clothing & Fashion",
+            "subcategory": [
+                "Outwear & jackets",
+                "Formal Dresses",
+                "Accessories"
+            ]
+        },
+        {
+            "name": "Computer & Accessories",
+            "subcategory": [
+                "Mobile Phone",
+                "Laptop",
+                "Gaming PC"
+            ]
+        },
+        {
+            "name": "Automobile",
+            "subcategory": [
+                "Cars",
+                "Bikes"
+            ]
+        },
+        {
+            "name": "Kids & Toys",
+            "subcategory": [
+                "Shoes & Bag",
+                "Baby Clothing",
+                "Girls Toys"
+            ]
+        },
+        
+        {
+            "name": "Sprots",
+            "subcategory": [
+                "Outdoor",
+                "Indoor",
+                "Hybrid"
+            ]
+        },
+        {
+            "name": "Beauty Products",
+            "subcategory": [
+                "MakeUp",
+                "Creams",
+                "Shampoo"
+            ]
+        },
+        {
+            "name": "Cell Phone",
+            "subcategory": [
+                "Smartphone",
+                "KeyPad"
+            ]
+        },
+        {
+            "name": "Electronic Gadgets",
+            "subcategory": [
+                "Toolkit",
+                "Accessories"
+            ]
+        },
+        {
+            "name": "Furniture",
+            "subcategory": [
+                "Bedkit",
+                "Kitchen kit"
+            ]
+        }
+
+        
+    ]
+}
